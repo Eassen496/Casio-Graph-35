@@ -1,7 +1,7 @@
 # CASIO-GRAPH-35
 all my programs from my GRAPH35+ calculator
 
-# I) MENU navigation
+# I) Menu navigation
 Many menus for the programs for exemple Function, Information, games etc  
 You need to install FA124 and have a compatible calculator
 
