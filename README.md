@@ -1,7 +1,7 @@
 # CASIO-GRAPH-35
 all my programs from my GRAPH35+ calculator
-Download BIDE IDE to program some programs
-You need to install FA124 and have a compatible calculator to transfer the files
+Download BIDE IDE to program some programs  
+You need to install FA124 and have a compatible calculator to transfer the files  
 
 
 # I) Menu navigation
