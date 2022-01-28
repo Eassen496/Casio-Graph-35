@@ -15,16 +15,17 @@ Some random function
 - Second program is the ENIGMA  
 - Third program is a basic program for Getkey function  
 - Fourth program is a doc for all programs ( in progress )  
+- fifth program is a Christmas tree that can have different size  
 
 # IV) Games
 - First program is an Hanged game ( 2 players )  
 - Second program is a Cookie Clicker ( 1 player )  
 - Third program is a Word Memory ( 2 players, ask for 7 words )  
 - Fourth program is a Space Invader ( 1 player, can choose skin for the spaceship and for the ennemy. You can also choose the speed limit for the game )  
-- Fifth program is a Pong game ( not finished )  
-- Sixth program is a Pokemon ( not started yet )  
-- Seventh program is a Civilization ( 1 player )  
-- Eighth program is a Trader Simulator ( not started yet )  
+- Fifth program is a Pong game ( fully functionnal )  
+- Sixth program is a Pokemon ( fully functionnal, but no save )  
+- Seventh program is a Civilization ( 1 player, some minor problems )  
+- Eighth program is a Tic-Tac-Toe ( finished )  
 
 # V) Animation
 - First program is an wave animation  
